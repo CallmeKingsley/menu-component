@@ -4084,6 +4084,11 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+menu-app-components@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/menu-app-components/-/menu-app-components-1.0.0.tgz#17d639c20f468e1c83d1419c5cb92d77b2fe2a3e"
+  integrity sha512-l/Hv+BCYbKYmfdUnlomwGdCSB6V2pGpAdD+DHynAsAEGnIQa+nDljxYyJOs3qo4yoZCTGoSn3WJ4u8dqDPjQ7Q==
+
 merge-stream@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-1.0.1.tgz#4041202d508a342ba00174008df0c251b8c135e1"
@@ -6090,9 +6095,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
