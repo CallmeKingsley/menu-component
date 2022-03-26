@@ -4084,6 +4084,11 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+menu-app-components@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/menu-app-components/-/menu-app-components-1.0.0.tgz#17d639c20f468e1c83d1419c5cb92d77b2fe2a3e"
+  integrity sha512-l/Hv+BCYbKYmfdUnlomwGdCSB6V2pGpAdD+DHynAsAEGnIQa+nDljxYyJOs3qo4yoZCTGoSn3WJ4u8dqDPjQ7Q==
+
 merge-stream@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/merge-stream/-/merge-stream-1.0.1.tgz#4041202d508a342ba00174008df0c251b8c135e1"
@@ -4388,9 +4393,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mixin-deep@^1.2.0:
   version "1.3.2"
